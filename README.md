@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi Jain
 - 👀 I’m interested in Web Developement,Computer Programming and Data Science.
-- 🌱 I’m currently learning Data Structures and Algorithms and Web Developement.
+- 🌱 I’m currently learning Data Structures and Algorithms,Web Developement and Machine Learning.
 - 💞️ I’m looking to collaborate on Web Dev Projects.
 - 📫 How to reach me jaditi930@gmail.com
 
